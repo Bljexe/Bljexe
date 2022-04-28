@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o Bryan Lucas 😃️</h1>
-  <p align="center">Iniciante no Mundo da Programação, Cursos e Aprendizado estudados tirando duvidas na Internet ou na  <a href="https://www.geekuniversity.com.br/"><i>Geek University</i></a>
+  <p align="center">Iniciante no Mundo da Programação, Cursos e Aprendizado estudados na <a href="unidombosco.edu.br"><i>Universidade UniDomBosco</i></a>  ou na  <a href="https://www.geekuniversity.com.br/"><i>Geek University</i></a>
 </div>
 
 <div align="center" valign="top"><br>
