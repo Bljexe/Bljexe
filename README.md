@@ -1,25 +1,36 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o Bryan Lucas 😃️</h1>
-  <p align="center">Iniciante no Mundo da Programação, Cursos e Aprendizado estudados na <a href="unidombosco.edu.br"><i>Universidade UniDomBosco</i></a>  ou na  <a href="https://www.geekuniversity.com.br/"><i>Geek University</i></a>
-</div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
+![](https://visitor-badge.glitch.me/badge?page_id=Blejxe.Blejxe) 
+![Profile views](https://gpvc.arturio.dev/Blejxe?v=3)
 
+Olá, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema 🚀 de Curitiba.
 
-<div align="center">
+<img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 Desenvolvo Sites com Conexão a banco de dados e Desenvolvo Emuladores para Dofus :wink:;
+- 🌱 Atualmente estou aprendendo PHP e C#; 
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+- 📫 Meu contato: [@blj.exe](https://www.instagram.com/blj.exe/);
+
+ ### 📫 Connect with me<img src="Assets/handshake.gif" height="32px">
+ 
+</a>|<a href="https://twitter.com/bljsexe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"> </a>|<a href="https://discord.gg/En2fPjBy"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+
+<details>
+<summary>Minhas Linguagens Preferidass</summary>
+
+> Tools, languages, and other things that I like to work with.
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css3" src="https://img.shields.io/badge/-CSS3-0099CC?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffd500?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=vscode&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-333?style=flat-square&logo=github&logoColor=white" />
   
-</div>
+  
+</p>
+</details>
+
