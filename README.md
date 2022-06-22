@@ -6,7 +6,7 @@ Olá, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema �
 
 <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
-**Talking about Personal Stuffs:**
+**Falando sobre coisas pessoais:**
 
 - 👨🏽‍💻 Desenvolvo Sites com Conexão a banco de dados e Desenvolvo Emuladores para Dofus :wink:;
 - 🌱 Atualmente estou aprendendo PHP e C#; 
