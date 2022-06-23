@@ -29,6 +29,8 @@ OlÃ¡, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema ğ
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=vscode&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-333?style=flat-square&logo=github&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
   
 </p>
