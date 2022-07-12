@@ -18,7 +18,7 @@ OlÃ¡, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema ğ
 </a>|<a href="https://twitter.com/bljsexe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"> </a>|<a href="https://discord.gg/En2fPjBy"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 
 <details>
-<summary>Minhas Linguagens Preferidass</summary>
+<summary>Minhas Linguagens Preferidas</summary>
 
 > Tools, languages, and other things that I like to work with.
 <p>
