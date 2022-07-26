@@ -20,7 +20,7 @@ OlÃ¡, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema ğ
 <details>
 <summary>Minhas Linguagens Preferidas</summary>
 
-> Tools, languages, and other things that I like to work with.
+> Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-0099CC?style=flat-square&logo=css3&logoColor=white" />
