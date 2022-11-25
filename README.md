@@ -15,7 +15,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema �
 
  ### 📫 Connect with me<img src="Assets/handshake.gif" height="32px">
  
-</a>|<a href="https://twitter.com/bljsexe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"> </a>|<a href="https://discord.gg/En2fPjBy"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+</a>|<a href="https://twitter.com/bljsexe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"> </a>|<a href="https://instagram.com/blj.exe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" width="40"></a>
 
 <details>
 <summary>Minhas Linguagens Preferidas</summary>
