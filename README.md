@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Blejxe.Blejxe) 
 ![Profile views](https://gpvc.arturio.dev/Blejxe?v=3)
 
-Olá, sou Bryan Lucas, Desenvolver Iniciante e Estudante de Analise de Sistema 🚀 de Curitiba.
+Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema 🚀 de Curitiba.
 
 <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
