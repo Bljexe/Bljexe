@@ -9,7 +9,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema �
 **Falando sobre coisas pessoais:**
 
 - 👨🏽‍💻 Desenvolvo Sites com Conexão a banco de dados e Desenvolvo Emuladores para Dofus :wink:;
-- 🌱 Atualmente estou aprendendo PHP e C#; 
+- 🌱 Atualmente estou estudando PHP e C#; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Meu contato: [@blj.exe](https://www.instagram.com/blj.exe/);
 
