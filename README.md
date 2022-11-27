@@ -30,6 +30,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema �
   <img alt="Github" src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=red" />
   <img alt="Svn Subversion" src="https://img.shields.io/badge/svn-00000F?style=for-the-badge&logo=subversion&logoColor=green" />
+  <img alt="C#" src="https://img.shields.io/badge/C_Sharp-9119b3?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/apache-00000F?style=for-the-badge&logo=apache&logoColor=purple" />
