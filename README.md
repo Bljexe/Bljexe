@@ -35,6 +35,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema �
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/apache-00000F?style=for-the-badge&logo=apache&logoColor=purple" />
   <img alt="Linux" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0000ff?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=blue" />
   
   
