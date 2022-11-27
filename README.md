@@ -18,7 +18,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise de Sistema �
 </a>|<a href="https://www.linkedin.com/in/bryan-lucas-516214135/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="40"> </a>|<a href="https://instagram.com/blj.exe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" width="40"></a>
 </a>|<a href="https://wa.me/5541984835936?text=Ol%C3%A1%2C+quero+conhecer+seus+trabalhos%21"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png" width="40"></a>
 <details>
-<summary>Minhas Linguagens Preferidas</summary>
+<summary>Minhas Skills</summary>
 
 > Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
 <p>
