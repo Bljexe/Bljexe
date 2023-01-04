@@ -9,7 +9,7 @@ Olá, sou Bryan Lucas, Desenvolver Júnior e Estudante de Analise e Desenvolvime
 **Falando sobre coisas pessoais:**
 
 - 👨🏽‍💻 Desenvolvo Sites com Conexão a banco de dados e Desenvolvo Emuladores para Dofus :wink:;
-- 🌱 Atualmente estou estudando PHP e C#; 
+- 🌱 Atualmente estou estudando NestJS e Prisma IO; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
  ### 📫 Meus Contatos:<img src="Assets/handshake.gif" height="32px">
