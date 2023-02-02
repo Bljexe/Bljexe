@@ -6,7 +6,7 @@ Hello, I'm Bryan Lucas, Junior Developer and Systems Analysis and Development St
 
 <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
-**Falando sobre coisas pessoais:**
+**Talking about personal things:**
 
 - 👨🏽‍💻 I develop websites with database connection and I develop emulators for Dofus :wink:;
 - 🌱 I'm currently studying NestJS and Prisma IO; 
