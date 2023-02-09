@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Blejxe.Blejxe) 
 ![Profile views](https://gpvc.arturio.dev/Blejxe?v=3)
 
-Hello, I'm Bryan Lucas, Junior Developer and Systems Analysis and Development Student 🚀 from Curitiba.
+Hi, I'm Bryan Lucas, Junior Developer, Ethical Hacker and Student of Systems Analysis and Development 🚀 from Curitiba.
 
 <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
