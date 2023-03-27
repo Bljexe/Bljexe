@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Blejxe.Blejxe) 
 ![Profile views](https://gpvc.arturio.dev/Blejxe?v=3)
 
-Olá, Eu Bryan Lucas, Desenvolvedor Júnior, Ethical Hacker e Estudante de Análise e Desenvolvimento de Sistemas 🚀 de Curitiba.
+Olá, Eu Bryan Lucas, Desenvolvedor, Ethical Hacker e Estudante de Análise e Desenvolvimento de Sistemas 🚀 de Curitiba.
 
 <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
   
