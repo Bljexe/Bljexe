@@ -9,7 +9,7 @@ Olá, Eu Bryan Lucas, Desenvolvedor Júnior, Ethical Hacker e Estudante de Anál
 **Coisas pessoais:**
 
 - 👨🏽‍💻 Desenvolvo sites com conexão com banco de dados e desenvolvo emuladores para Dofus :wink:;
-- 🌱 Atualmente estou estudando NestJS e Prisma IO; 
+- 🌱 Atualmente estou estudando React e Prisma IO; 
 - 💬 Pergunte-me qualquer coisa, fico feliz em ajudar.;
 
  ### 📫 Meus Contatos:<img src="Assets/handshake.gif" height="32px">
