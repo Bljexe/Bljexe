@@ -24,17 +24,13 @@ Hello, I am Bryan Lucas, FullStack Developer, Ethical Hacker and Systems Analysi
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-0099CC?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=vscode&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=red" />
   <img alt="Svn Subversion" src="https://img.shields.io/badge/svn-00000F?style=for-the-badge&logo=subversion&logoColor=green" />
   <img alt="C#" src="https://img.shields.io/badge/C_Sharp-9119b3?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Apache" src="https://img.shields.io/badge/apache-00000F?style=for-the-badge&logo=apache&logoColor=purple" />
   <img alt="Linux" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0000ff?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Mac" src="https://img.shields.io/badge/Mac-45255ff?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=blue" />
   
