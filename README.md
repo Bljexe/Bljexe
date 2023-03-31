@@ -21,8 +21,6 @@ Hello, I am Bryan Lucas, FullStack Developer, Ethical Hacker and Systems Analysi
 
 > Tools, languages ​​and other things I like to work with.
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Css3" src="https://img.shields.io/badge/-CSS3-0099CC?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-00000F?style=for-the-badge&logo=git&logoColor=red" />
