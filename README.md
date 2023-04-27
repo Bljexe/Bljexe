@@ -1,6 +1,6 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=Blejxe.Blejxe) 
-![Profile views](https://gpvc.arturio.dev/Blejxe?v=3)
+![](https://visitor-badge.glitch.me/badge?page_id=Bljexe.Bljexe) 
+![Profile views](https://gpvc.arturio.dev/Bljexe?v=3)
 
 Hello, I am Bryan Lucas, FullStack Developer, Ethical Hacker and Systems Analysis and Development Student 🚀 from Colombo, Paraná.
 
