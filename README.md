@@ -4,7 +4,7 @@ Hello, I am Bryan Lucas, FullStack Developer, Ethical Hacker and Systems Analysi
   
 **Personal things:**
 
-- 👨🏽‍💻 I develop websites with database connection and I develop emulators for Dofus :wink:.
+- 👨🏽‍💻 I develop websites and also perform penetration tests on websites. :wink:.
 - 🌱 Hacking and Penetration Testing for Systems Security.
 - 💬 Ask me anything, I'm happy to help.
 
