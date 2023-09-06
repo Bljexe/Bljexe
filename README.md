@@ -1,6 +1,7 @@
-### <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there, I'm [Bryan Lucas!](https://bljexe.github.io/website)
-<h3 align="center">FullStack Developer, Ethical Hacker and Systems Analysis and Development Student 🚀 from Colombo, Paraná.</h3>
-
+### <h1 align="center"><img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there, I'm [Bryan Lucas!](https://bljexe.github.io/website)</h1>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;PHP%20|%20C_Sharp%20|%20Typescript%20|%20NestJS%20|%20ReactJS%20;&center=true&width=550&height=50"></a>
+</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Personal Things:
