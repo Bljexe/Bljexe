@@ -4,18 +4,19 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Personal Things:
-- 👨🏽‍💻 I develop websites and also perform penetration tests on websites. :wink:.
-- 🌱 Hacking and Penetration Testing for Systems Security.
-- 💬 Ask me anything, I'm happy to help.
- ### 📫 My Contacts:<img src="Assets/handshake.gif" height="32px">
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Personal Highlights:
+- 👨🏽‍💻 I specialize in web development and penetration testing for websites.. :wink:.
+- 🌱 I'm passionate about hacking and system security.
+- 💬 Feel free to ask me anything; I'm here to help.
+- <a href="https://github.com/Bljexe/config_vscode/blob/main/settings.json">Check out my VS Code Configuration</a>
+### 📫 Connect with Me:<img src="Assets/handshake.gif" height="32px">
  
 </a>|<a href="https://www.linkedin.com/in/bljexe/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="40"> </a>|<a href="https://instagram.com/blj.exe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" width="40"></a>
 </a>|<a href="https://wa.me/5541984835936?text=Ol%C3%A1%2C+quero+conhecer+seus+trabalhos%21"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png" width="40"></a>
 <details>
 <summary>Tech Skills: ☕︎</summary>
 
-> Tools, languages ​​and other things I like to work with.
+> Tools, languages, and other technologies I enjoy working with.
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffd500?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0000FF?style=for-the-badge&logo=typescript&logoColor=white" />
