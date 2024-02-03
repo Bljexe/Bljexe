@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I specialize in web development and penetration testing for websites.. :wink:.
 - 🌱 I'm passionate about hacking and system security.
 - 💬 Feel free to ask me anything; I'm here to help.
-- <a href="https://github.com/Bljexe/config_vscode/blob/main/settings.json">Check out my VS Code Configuration</a>
+- ⚙️ <a href="https://github.com/Bljexe/config_vscode/blob/main/settings.json">Check out my VS Code Configuration</a>
 ### 📫 Connect with Me:<img src="Assets/handshake.gif" height="32px">
  
 </a>|<a href="https://www.linkedin.com/in/bljexe/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width="40"> </a>|<a href="https://instagram.com/blj.exe"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" width="40"></a>
