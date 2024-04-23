@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi there, I'm [Bryan Lucas!](https://bljexe.github.io/website)</h1>
 <p align="center">
-  <a href="https://bljexe.github.io/website"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;PHP%20|%20Laravel%20|%20Symfony%20|%20Typescript%20|%20ReactJS%20;&center=true&width=550&height=50"></a>
+  <a href="https://www.linkedin.com/in/bljexe"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;PHP%20|%20Laravel%20|%20Symfony%20|%20Typescript%20|%20ReactJS%20;&center=true&width=550&height=50"></a>
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
