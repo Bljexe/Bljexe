@@ -11,7 +11,7 @@
 - ⚙️ <a href="https://github.com/Bljexe/config_vscode/blob/main/settings.json">Check out my VS Code Configuration</a>
 ### 📫 Connect with Me:<img src="Assets/handshake.gif" height="32px">
  
-<a href="https://wa.me/5541984835936?text=Ol%C3%A1%2C+quero+conhecer+seus+trabalhos%21"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png" width="40"></a>
+<a href="https://wa.me/5541984335936?text=Ol%C3%A1%2C+quero+conhecer+seus+trabalhos%21"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png" width="40"></a>
 <details>
 <summary>Tech Skills: ☕︎</summary>
 
