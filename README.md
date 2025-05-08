@@ -108,13 +108,13 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/linux-logo.png" width="48" height="48" alt="Linux" />
       </a>
-      <br>Debian
+      <br>Linux
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/apple-logo.png" width="48" height="48" alt="macOS" />
       </a>
       <br>macOS
     </td>
@@ -139,39 +139,39 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
-      </a>
-      <br>CI/CD
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="Github" />
       </a>
-      <br>Git
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>Github
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab" />
       </a>
-      <br>Terraform
+      <br>GitLab
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/yaml-logo.png" width="48" height="48" alt="YAML" />
       </a>
-      <br>VS Code
+      <br>YAML
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/aws-logo.png" width="48" height="48" alt="Aws Services" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/visual-studio-logo.png" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VSCode
     </td>
   </tr>
 </table>
