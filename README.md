@@ -133,7 +133,7 @@
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -145,7 +145,7 @@
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab" />
+        <img src="https://raw.githubusercontent.com/kallioli/static-content/refs/heads/main/img/logo/gitlab-logo.png" width="48" height="48" alt="GitLab" />
       </a>
       <br>GitLab
     </td>
