@@ -7,7 +7,7 @@
 # 👨‍💻 Information Technology Engineer (ITI) with a focus on penetration testing.
 - 🚀 Enhancing and optimizing web applications for performance and security.
 ! ✨ If you can imagine it, you can secure it and build it.
-+ 🌟 Senior Developer with expertise in leading teams and delivering scalable, maintainable solutions.
++ 🌟 Developer with expertise in leading teams and delivering scalable, maintainable solutions.
 ```
 
 - ⚙️ <a href="https://github.com/Bljexe/config_vscode/blob/main/settings.json">Check out my VS Code Configuration</a>
