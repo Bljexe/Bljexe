@@ -14,7 +14,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bljexe&color=00D9FF&style=for-the-badge&label=VISITANTES)](https://github.com/Bljexe)
 [![GitHub Followers](https://img.shields.io/github/followers/Bljexe?label=SEGUIDORES&style=for-the-badge&color=00D9FF)](https://github.com/Bljexe)
-[![GitHub Stars](https://img.shields.io/badge/GitHub-Stars-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bljexe)
 
 </div>
 
